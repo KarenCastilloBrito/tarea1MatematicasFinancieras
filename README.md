@@ -1,2 +1,1 @@
 # tarea1MatematicasFinancieras
-tarea
